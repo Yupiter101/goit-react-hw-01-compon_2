@@ -6,11 +6,11 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
+        fontSize: 30,
         color: '#010101'
       }}
     >
-      React homework template Yupiter_2
+      React homework template Yupiter_22222
     </div>
   );
 };
